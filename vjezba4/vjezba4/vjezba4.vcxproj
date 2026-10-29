@@ -142,7 +142,8 @@
     <ClCompile Include="vj4.c" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="dat.txt" />
+    <Text Include="polinom1.txt" />
+    <Text Include="polinom2.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
